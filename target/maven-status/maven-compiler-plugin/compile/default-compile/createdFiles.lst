@@ -1,0 +1,10 @@
+com/app/app/model/dto/UfDTO$UfDTOBuilder.class
+com/app/app/AppApplication.class
+com/app/app/repository/UfRepository.class
+com/app/app/service/UfService.class
+com/app/app/controller/CustomGlobalExceptionHandler.class
+com/app/app/model/entity/Uf.class
+com/app/app/model/entity/Uf$UfBuilder.class
+com/app/app/model/dto/UfDTO.class
+com/app/app/AppApplication$1.class
+com/app/app/controller/UfResource.class

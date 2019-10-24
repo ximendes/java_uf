@@ -1,0 +1,7 @@
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/AppApplication.java
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/model/entity/Uf.java
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/service/UfService.java
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/repository/UfRepository.java
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/controller/UfResource.java
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/controller/CustomGlobalExceptionHandler.java
+/Users/eduardo/Documents/projetos/java_angular_uf/app/src/main/java/com/app/app/model/dto/UfDTO.java
