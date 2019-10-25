@@ -21,4 +21,4 @@ cd app && mvn install
 * FlyWay Database Migration
 * Swagger API
 * Hibernate 
-*JUnit Test
+* JUnit Test
