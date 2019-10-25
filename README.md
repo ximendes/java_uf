@@ -7,7 +7,7 @@
 ## Deploy
 ```
 cd app && mvn spring-boot:run
-api disponível na portal: 8080
+api disponível na porta: 8080
 ```
 
 ## Run Tests
