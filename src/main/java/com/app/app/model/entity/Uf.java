@@ -19,7 +19,8 @@ import java.time.ZonedDateTime;
 public class Uf implements Serializable {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "uf_id_seq")
+    @SequenceGenerator(name = "uf_id_seq", sequenceName = "uf_id_seq", allocationSize = 1)
     private Long id;
 
     private String nome;
