@@ -1,6 +1,6 @@
 # java-uf
 
-### Pre Requisito
+### Pré Requisitos
 * Postgres Database
 * Criar as bases crud_uf e crud_uf_test 
 
