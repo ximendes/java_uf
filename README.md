@@ -10,7 +10,7 @@ cd app && mvn spring-boot:run
 api disponível na portal: 8080
 ```
 
-## Executar Testes
+## Run Tests
 
 ```
 cd app && mvn install
